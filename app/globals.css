@@ -23,18 +23,29 @@ body {
 /* btn */
 .btn-blue {
   @apply bg-blue-500 px-4 p-2 rounded-full font-semibold text-white
-    hover:bg-blue-700 hover:scale-105 transition-all;
+   cursor-pointer hover:bg-blue-700 hover:scale-105 transition-all;
 }
 .btn-red {
   @apply bg-red-500 px-4 p-2 rounded-full font-semibold text-white
-    hover:bg-red-700 hover:scale-105 transition-all;
+   cursor-pointer hover:bg-red-700 hover:scale-105 transition-all;
 }
 .btn-green {
   @apply bg-green-500 px-4 p-2 rounded-full font-semibold text-white
-    hover:bg-green-700 hover:scale-105 transition-all;
+   cursor-pointer hover:bg-green-700 hover:scale-105 transition-all;
 }
 
-/*  */
+/* table */
 .title {
   @apply text-2xl md:text-3xl font-bold;
+}
+.tr {
+  @apply py-2 border-b-2 border-gray-300;
+}
+.td {
+  @apply p-2;
+}
+
+/* add user */
+.input {
+  @apply w-[20%] p-2 px-4 border-b active:border-none focus:border-blue-500;
 }

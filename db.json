@@ -1,9 +1,40 @@
 {
   "Customer": [
-    { "id": 1, "name": "John", "email": "john@gmail.com", "age": "32" },
-    { "id": 2, "name": "Alice", "email": "alice@example.com", "age": "28" },
-    { "id": 3, "name": "Bob", "email": "bob@example.com", "age": "45" },
-    { "id": 4, "name": "Eve", "email": "eve@example.com", "age": "22" },
-    { "id": 5, "name": "Charlie", "email": "charlie@example.com", "age": "30" }
+    {
+      "id": "1",
+      "name": "John",
+      "email": "john@gmail.com",
+      "age": "32"
+    },
+    {
+      "id": "2",
+      "name": "Alice",
+      "email": "alice@example.com",
+      "age": "28"
+    },
+    {
+      "id": "3",
+      "name": "Bob",
+      "email": "bob@example.com",
+      "age": "45"
+    },
+    {
+      "id": "635a",
+      "name": "product 3",
+      "email": "jk915210@gmail.com",
+      "age": "23"
+    },
+    {
+      "id": "2085",
+      "name": "ldldfkl",
+      "email": "jk915210@gmail.com",
+      "age": "234"
+    },
+    {
+      "id": "f027",
+      "name": "JAHANGIR KHAN",
+      "email": "jk915210@gmail.com",
+      "age": "23"
+    }
   ]
 }
